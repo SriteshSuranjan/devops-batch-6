@@ -6,5 +6,5 @@ git commit
 git restore
 git status
 git log
-
+git confi --global user.name ""
 
